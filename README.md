@@ -12,6 +12,6 @@ Let's Connect!
 
 🌐 Portfolio: [https://nedal-portfolio.vercel.app](https://nedalfazli.vercel.app/)
 
-💼 LinkedIn: [(https://www.linkedin.com/in/nedal-fazli](https://www.linkedin.com/in/nedal-fazli-433670223/)
+💼 LinkedIn: [https://www.linkedin.com/in/nedal-fazli](https://www.linkedin.com/in/nedal-fazli-433670223/)
 
 📧 Email: nedalfazli@gmail.com
